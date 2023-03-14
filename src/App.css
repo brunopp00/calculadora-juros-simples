@@ -22,6 +22,26 @@ label {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.input-taxa {
+    padding:10px;
+    color:white;
+    background-color:black;
+    border: 1px solid black;
+    border-radius:6px;
+    margin: 5px 0px 15px 0px;
+    width: 100px;
+}
+
+.input {
+    padding:10px;
+    color:white;
+    background-color:black;
+    border: 1px solid black;
+    border-radius:6px;
+    margin: 5px 0px 15px 10px;
+    width: 90px;
+}
+
 input {
     padding:10px;
     color:white;
